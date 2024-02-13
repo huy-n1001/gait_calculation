@@ -1,4 +1,5 @@
 # gait_calculation
+
 Motion sensor analysis with gait calculations.
 
 In this project, we are interested in accelerometer data collected from a person walking.
